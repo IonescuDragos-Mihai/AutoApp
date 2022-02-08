@@ -1,0 +1,2 @@
+rootProject.name = "AutoApp"
+include ':app'
