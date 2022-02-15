@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AutoApp</string>
+
+    <!-- home page-->
+    <string name="text_button_load_image">Load image</string>
+    <string name="text_button_start_detection">Start Detection</string>
 </resources>
